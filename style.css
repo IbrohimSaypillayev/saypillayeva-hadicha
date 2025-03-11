@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    background-color: grey;
+    border: 6px solid gold;
+    padding: 50px;
+    border-radius: 50px;
+}
+.card{
+    display: flex;
+    gap: 100px;
+    background-color: gold;
+    border-radius: 50px;
+    border: 5px solid black;
+    margin-bottom: 100px;
+}
+.card-ichidagi-card h1{
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+.card-ichidagi-card p{
+    margin-left: 50px;
+    margin-right: 360px;
+}
+.img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    margin: block;
+}
